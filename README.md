@@ -68,3 +68,6 @@ git for-each-ref --format="%(refname:short) %(objectname)" refs/remotes/origin/t
 3. Investigate the possibility to create and release this project on the macOS App Store.
 4. A test run still leaves some files behind.
 
+# Why Yet Another Fork?
+* install instruction: make installation more self-explanatory and more explicit with dependencies
+* cross-platform: make it even work for Windows and Linux

@@ -4,6 +4,6 @@ allprojects {
     }
 
     group = 'org.pwsafe'
-    version = '0.8.2-nresare.3-SNAPSHOT'
+    version = '0.8.2-xiaomingsea.0-SNAPSHOT'
 }
 
